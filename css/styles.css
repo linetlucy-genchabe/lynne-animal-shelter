@@ -3,22 +3,31 @@
     width: 400px;
     float: left;
     border: 2px solid pink;
+    box-shadow: 2px 2px 2px 2px;
+    margin-left: 20px;
 }
 .animal2 {
     height: 400px;
     width: 400px;
     float: left;
     border: 2px solid pink;
+    box-shadow: 2px 2px 2px 2px;
+    margin-left: 20px;
 }
 .animal3 {
     height: 400px;
     width: 400px;
     float: left;
     border: 2px solid pink;
+    box-shadow: 2px 2px 2px 2px;
+    margin-left: 20px;
 }
 .animal4 {
     height: 400px;
     width: 400px;
     float: left;
     border: 2px solid pink;
+    box-shadow: 2px 2px 2px 2px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
