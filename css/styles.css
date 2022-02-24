@@ -31,3 +31,11 @@
     margin-left: 20px;
     margin-top: 20px;
 }
+.heading {
+    border: 2px;
+    box-shadow: 2px 2px 2px 2px brown;
+    text-align: center;
+    height: 80px;
+    margin-bottom: 20px;
+    color: brown;
+}
